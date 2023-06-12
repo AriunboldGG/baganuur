@@ -1,0 +1,50 @@
+{
+    "default-sidebar": {
+        "search-3": { "title": "Search" },
+        "recent-posts-2": { "title": "", "number": 5, "show_date": true },
+        "categories-2": {
+            "title": "",
+            "count": 0,
+            "hierarchical": 0,
+            "dropdown": 0
+        },
+        "text-4": {
+            "title": "",
+            "text": "<img style=\"padding-top:20px;\" src=\"http://uniontheme.com/baganuur/wp-content/uploads/sites/17/2016/12/sidebar-banner.jpg\"/>",
+            "filter": false
+        },
+        "tag_cloud-2": { "title": "", "taxonomy": "post_tag" }
+    },
+    "footer-sidebar-1": {
+        "text-2": {
+            "title": "",
+            "text": "<img alt=\"footer logo\" src=\"http://uniontheme.com/baganuur/wp-content/uploads/sites/17/2016/12/logo.png\"/>",
+            "filter": false
+        },
+        "baganuur_ut_contactinfo-2": {
+            "contact_title": "",
+            "contact_address": "66 Bernard St-Suite in\r\nUnited States-GA 22222",
+            "contact_phone": "P:99998866 ",
+            "contact_fax": "F:99998866",
+            "contact_email": "hello@creative.com",
+            "contact_email_url": ""
+        }
+    },
+    "footer-sidebar-2": {},
+    "footer-sidebar-3": {
+        "archives-3": { "title": "", "count": 0, "dropdown": 0 }
+    },
+    "footer-sidebar-4": {
+        "text-3": {
+            "title": "Support form",
+            "text": "[mc4wp_form id=\"1628\"]",
+            "filter": false
+        },
+        "baganuur_ut_social_links-2": {
+            "title": "",
+            "color_code": "#808080",
+            "icon_size": "small-fi",
+            "social": "facebook.com/#\r\ntwitter.com/#\r\ninstagram.com/#\r\nplus.google.com/#"
+        }
+    }
+}

@@ -1,0 +1,2957 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: epoch\n"
+"POT-Creation-Date: 2016-12-28 09:35+0800\n"
+"PO-Revision-Date: 2016-03-04 12:31+0800\n"
+"Last-Translator: \n"
+"Language-Team: UnionTheme <hello@uniontheme.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;wp_kses(__;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:11
+msgid "OOPS,"
+msgstr ""
+
+#: 404.php:12
+msgid "This Page Not Found!"
+msgstr ""
+
+#: 404.php:13
+msgid "404"
+msgstr ""
+
+#: backend/functions/admin-customize.php:18
+msgid "Add Gallery Images"
+msgstr ""
+
+#: backend/functions/admin-customize.php:19
+#: backend/metabox-options/gallery.php:90
+msgid "Edit Gallery"
+msgstr ""
+
+#: backend/functions/admin-customize.php:20
+msgid "Save Gallery"
+msgstr ""
+
+#: backend/functions/admin-customize.php:21
+msgid "Saving..."
+msgstr ""
+
+#: backend/functions/comment-walker.php:54
+msgid "Edit"
+msgstr ""
+
+#: backend/functions/comment-walker.php:56
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: backend/functions/core-functions.php:116
+msgid "No Comment"
+msgstr ""
+
+#: backend/functions/core-functions.php:118
+msgid "1 Comment"
+msgstr ""
+
+#: backend/functions/core-functions.php:120
+#, php-format
+msgid "%s Comments"
+msgstr ""
+
+#: backend/functions/core-functions.php:149
+#: backend/functions/core-functions.php:202
+msgid "No Image"
+msgstr ""
+
+#: backend/functions/custom-menu.php:275
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: backend/functions/custom-menu.php:279
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: backend/functions/custom-menu.php:290
+msgid "sub item"
+msgstr ""
+
+#: backend/functions/custom-menu.php:321
+msgid "Edit Menu Item"
+msgstr ""
+
+#: backend/functions/custom-menu.php:330
+msgid "URL"
+msgstr ""
+
+#: backend/functions/custom-menu.php:337
+msgid "Navigation Label"
+msgstr ""
+
+#: backend/functions/custom-menu.php:343
+msgid "Title Attribute"
+msgstr ""
+
+#: backend/functions/custom-menu.php:350
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: backend/functions/custom-menu.php:355
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: backend/functions/custom-menu.php:361
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: backend/functions/custom-menu.php:367
+msgid "Description"
+msgstr ""
+
+#: backend/functions/custom-menu.php:369
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: backend/functions/custom-menu.php:374
+msgid "Move"
+msgstr ""
+
+#: backend/functions/custom-menu.php:375
+msgid "Up one"
+msgstr ""
+
+#: backend/functions/custom-menu.php:376
+msgid "Down one"
+msgstr ""
+
+#: backend/functions/custom-menu.php:379
+msgid "To the top"
+msgstr ""
+
+#: backend/functions/custom-menu.php:383
+msgid "Custom Options"
+msgstr ""
+
+#: backend/functions/custom-menu.php:387
+msgid "Hide"
+msgstr ""
+
+#: backend/functions/custom-menu.php:393
+msgid "Is Mega Menu"
+msgstr ""
+
+#: backend/functions/custom-menu.php:398
+msgid "Column"
+msgstr ""
+
+#: backend/functions/custom-menu.php:401
+msgid "2 Columns"
+msgstr ""
+
+#: backend/functions/custom-menu.php:402
+msgid "3 Columns"
+msgstr ""
+
+#: backend/functions/custom-menu.php:403
+msgid "4 Columns"
+msgstr ""
+
+#: backend/functions/custom-menu.php:404
+msgid "5 Columns"
+msgstr ""
+
+#: backend/functions/custom-menu.php:411
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: backend/functions/custom-menu.php:424
+msgid "Remove"
+msgstr ""
+
+#: backend/functions/custom-menu.php:426
+msgid "Cancel"
+msgstr ""
+
+#: backend/functions/portfolio-functions.php:249
+msgid "NO RELATED PROJECTS"
+msgstr ""
+
+#: backend/functions/register-sidebar.php:33
+msgid "Footer sidebar "
+msgstr ""
+
+#: backend/functions/register-sidebar.php:35
+msgid "The footer sidebar widget area"
+msgstr ""
+
+#: backend/functions/search.php:14 backend/functions/search.php:26
+#: backend/functions/search.php:39
+msgid "Type Here"
+msgstr ""
+
+#: backend/helper-functions.php:22 comments.php:51
+msgid "Name"
+msgstr ""
+
+#: backend/helper-functions.php:24
+msgid "Email"
+msgstr ""
+
+#: backend/helper-functions.php:291
+msgid "More News"
+msgstr ""
+
+#: backend/helper-functions.php:1070 backend/theme-options/options-init.php:618
+msgid "Global Title"
+msgstr ""
+
+#: backend/helper-functions.php:1073 backend/theme-options/options-init.php:628
+msgid "Change it on Theme Options & Layout & Page Title section."
+msgstr ""
+
+#: backend/helper-functions.php:1162 backend/theme-options/options-init.php:996
+msgid ""
+"baganuur - Responsive & Multipurpose WordPress Theme by UnionTheme. Proudly "
+"Powered by WordPress."
+msgstr ""
+
+#: backend/helper-functions.php:1430
+#: backend/theme-options/options-init.php:1749
+msgid "Related Projects"
+msgstr ""
+
+#: backend/helper-functions.php:1568 backend/helper-functions.php:1896
+#: backend/theme-options/options-init.php:2206
+msgid "Category"
+msgstr ""
+
+#: backend/helper-functions.php:1571 backend/helper-functions.php:1902
+#: backend/theme-options/options-init.php:2214
+msgid "Portfolio"
+msgstr ""
+
+#: backend/helper-functions.php:1574 backend/helper-functions.php:1908
+#: backend/theme-options/options-init.php:2222
+msgid "Tag"
+msgstr ""
+
+#: backend/helper-functions.php:1577
+#: backend/theme-options/options-init.php:2230
+msgid "Nothing found!"
+msgstr ""
+
+#: backend/helper-functions.php:1580 backend/helper-functions.php:1920
+#: backend/theme-options/options-init.php:2238
+msgid "Author"
+msgstr ""
+
+#: backend/helper-functions.php:1583 backend/helper-functions.php:1944
+#: backend/theme-options/options-init.php:2246
+msgid "Blog Archives"
+msgstr ""
+
+#: backend/helper-functions.php:1586 backend/helper-functions.php:1930
+#: backend/theme-options/options-init.php:2254
+msgid "Daily Archives"
+msgstr ""
+
+#: backend/helper-functions.php:1589 backend/helper-functions.php:1935
+#: backend/theme-options/options-init.php:2262
+msgid "Monthly Archives"
+msgstr ""
+
+#: backend/helper-functions.php:1592 backend/helper-functions.php:1940
+#: backend/theme-options/options-init.php:2270
+msgid "Yearly Archives"
+msgstr ""
+
+#: backend/helper-functions.php:1595 backend/helper-functions.php:1952
+#: backend/theme-options/options-init.php:2278
+msgid "Search results for"
+msgstr ""
+
+#: backend/helper-functions.php:1866
+msgid "few second ago"
+msgstr ""
+
+#: backend/helper-functions.php:1868
+msgid "min ago"
+msgstr ""
+
+#: backend/helper-functions.php:1870
+msgid "1 hour ago"
+msgstr ""
+
+#: backend/helper-functions.php:1872
+msgid "hrs ago"
+msgstr ""
+
+#: backend/helper-functions.php:1914
+msgid "Nothing Found!"
+msgstr ""
+
+#: backend/helper-functions.php:2006
+msgid "0"
+msgstr ""
+
+#: backend/helper-functions.php:2008
+msgid "1"
+msgstr ""
+
+#: backend/helper-functions.php:2010
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: backend/metabox-options/blog.php:11
+msgid "Post Options"
+msgstr ""
+
+#: backend/metabox-options/blog.php:15
+msgid "Blog Size"
+msgstr ""
+
+#: backend/metabox-options/blog.php:18
+msgid ""
+"This options will be used Blog Metro only. 1x1 Recommended Size: 500x500 "
+"pixel, 1x2 mean 500:1000 etc"
+msgstr ""
+
+#: backend/metabox-options/blog.php:20
+#: backend/metabox-options/portfolio.php:143
+msgid "Default (1x1)"
+msgstr ""
+
+#: backend/metabox-options/blog.php:21
+#: backend/metabox-options/portfolio.php:144
+msgid "Horizontal (2x1)"
+msgstr ""
+
+#: backend/metabox-options/blog.php:22
+#: backend/metabox-options/portfolio.php:145
+msgid "Vertical (1x2)"
+msgstr ""
+
+#: backend/metabox-options/blog.php:23
+#: backend/metabox-options/portfolio.php:146
+msgid "Large (2x2)"
+msgstr ""
+
+#: backend/metabox-options/blog.php:31
+msgid "Position (Metro Style)"
+msgstr ""
+
+#: backend/metabox-options/blog.php:34
+#: backend/metabox-options/portfolio.php:157
+msgid "Metro style only."
+msgstr ""
+
+#: backend/metabox-options/blog.php:36
+#: backend/metabox-options/portfolio.php:159
+msgid "Left Top"
+msgstr ""
+
+#: backend/metabox-options/blog.php:37
+#: backend/metabox-options/portfolio.php:160
+msgid "Left Center"
+msgstr ""
+
+#: backend/metabox-options/blog.php:38
+#: backend/metabox-options/portfolio.php:161
+msgid "Left Bottom"
+msgstr ""
+
+#: backend/metabox-options/blog.php:39
+#: backend/metabox-options/portfolio.php:162
+msgid "Center Top"
+msgstr ""
+
+#: backend/metabox-options/blog.php:40
+#: backend/metabox-options/portfolio.php:163
+msgid "Center Center"
+msgstr ""
+
+#: backend/metabox-options/blog.php:41
+#: backend/metabox-options/portfolio.php:164
+msgid "Center Bottom"
+msgstr ""
+
+#: backend/metabox-options/blog.php:42
+#: backend/metabox-options/portfolio.php:165
+msgid "Right Top"
+msgstr ""
+
+#: backend/metabox-options/blog.php:43
+#: backend/metabox-options/portfolio.php:166
+msgid "Right Center"
+msgstr ""
+
+#: backend/metabox-options/blog.php:44
+#: backend/metabox-options/portfolio.php:167
+msgid "Right Bottom"
+msgstr ""
+
+#: backend/metabox-options/blog.php:52
+#: backend/metabox-options/portfolio.php:175
+msgid "Gallery Transition"
+msgstr ""
+
+#: backend/metabox-options/blog.php:55 backend/metabox-options/blog.php:71
+msgid "Single Post only."
+msgstr ""
+
+#: backend/metabox-options/blog.php:57
+#: backend/metabox-options/portfolio.php:180
+msgid "Fade"
+msgstr ""
+
+#: backend/metabox-options/blog.php:58
+#: backend/metabox-options/portfolio.php:181
+msgid "BackSlide"
+msgstr ""
+
+#: backend/metabox-options/blog.php:59
+#: backend/metabox-options/portfolio.php:182
+msgid "goDown"
+msgstr ""
+
+#: backend/metabox-options/blog.php:60
+#: backend/metabox-options/portfolio.php:183
+msgid "FadeUp"
+msgstr ""
+
+#: backend/metabox-options/blog.php:68
+#: backend/metabox-options/portfolio.php:191
+msgid "Gallery Progress Bar"
+msgstr ""
+
+#: backend/metabox-options/blog.php:73 backend/metabox-options/metabox.php:1166
+#: backend/metabox-options/metabox.php:1224
+#: backend/metabox-options/metabox.php:1436
+#: backend/metabox-options/metabox.php:1466
+#: backend/metabox-options/metabox.php:1513
+#: backend/metabox-options/metabox.php:1563
+#: backend/metabox-options/metabox.php:1613
+#: backend/metabox-options/metabox.php:1663
+#: backend/metabox-options/metabox.php:1713
+#: backend/metabox-options/metabox.php:1763
+#: backend/metabox-options/metabox.php:1813
+#: backend/metabox-options/metabox.php:1871
+#: backend/metabox-options/metabox.php:1921
+#: backend/metabox-options/portfolio.php:196
+msgid "On"
+msgstr ""
+
+#: backend/metabox-options/blog.php:74 backend/metabox-options/metabox.php:1167
+#: backend/metabox-options/metabox.php:1225
+#: backend/metabox-options/metabox.php:1437
+#: backend/metabox-options/metabox.php:1467
+#: backend/metabox-options/metabox.php:1514
+#: backend/metabox-options/metabox.php:1564
+#: backend/metabox-options/metabox.php:1614
+#: backend/metabox-options/metabox.php:1664
+#: backend/metabox-options/metabox.php:1714
+#: backend/metabox-options/metabox.php:1764
+#: backend/metabox-options/metabox.php:1814
+#: backend/metabox-options/metabox.php:1872
+#: backend/metabox-options/metabox.php:1922
+#: backend/metabox-options/portfolio.php:197
+msgid "Off"
+msgstr ""
+
+#: backend/metabox-options/gallery.php:20
+msgid "Gallery Settings"
+msgstr ""
+
+#: backend/metabox-options/gallery.php:27
+msgid "Upload images"
+msgstr ""
+
+#: backend/metabox-options/gallery.php:28
+msgid ""
+"Gallery Images will be displayed in Portfolio Single, Featured Image will be "
+"displayed in Portfolio pagebuilder element. Recommended size is: 1170x600, "
+"Featured Image size is:700x500."
+msgstr ""
+
+#: backend/metabox-options/gallery.php:32
+msgid "Gallery height"
+msgstr ""
+
+#: backend/metabox-options/gallery.php:33
+msgid ""
+"NOTES: This option works either single portfolio or single post. If you "
+"leave as blank then it will get current image height."
+msgstr ""
+
+#: backend/metabox-options/gallery.php:90
+msgid "Upload Images"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:73
+#: backend/metabox-options/metabox.php:94
+#: backend/metabox-options/metabox.php:125
+#: backend/metabox-options/metabox.php:156
+#: backend/theme-options/options-init.php:606
+msgid "Title"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:74
+#: backend/metabox-options/metabox.php:96
+#: backend/metabox-options/metabox.php:127
+#: backend/metabox-options/metabox.php:158
+#: backend/theme-options/options-init.php:1639
+msgid "Featured Image"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:75
+#: backend/metabox-options/metabox.php:97
+#: backend/metabox-options/metabox.php:128
+#: backend/metabox-options/metabox.php:159
+#: backend/metabox-options/metabox.php:353
+msgid "Google Map"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:76
+#: backend/metabox-options/metabox.php:98
+#: backend/metabox-options/metabox.php:129
+#: backend/metabox-options/metabox.php:160
+#: backend/metabox-options/metabox.php:829
+#: backend/theme-options/options-init.php:515
+#: backend/theme-options/options-init.php:607
+#: backend/theme-options/options-init.php:738
+#: backend/theme-options/options-init.php:739
+#: backend/theme-options/options-init.php:895
+#: backend/theme-options/options-init.php:2302
+#: backend/theme-options/options-init.php:2303
+#: backend/theme-options/options-init.php:2351
+#: backend/theme-options/options-init.php:2352
+#: backend/theme-options/options-init.php:2400
+#: backend/theme-options/options-init.php:2401
+#: backend/theme-options/options-init.php:2449
+#: backend/theme-options/options-init.php:2450
+#: backend/theme-options/options-init.php:2484
+#: backend/theme-options/options-init.php:2485
+#: backend/theme-options/options-init.php:2519
+#: backend/theme-options/options-init.php:2520
+msgid "None"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:95
+#: backend/metabox-options/metabox.php:287
+msgid "Revolution Slider"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:110
+#: backend/metabox-options/metabox.php:142
+#: backend/metabox-options/metabox.php:177
+msgid "No sliders found"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:126
+#: backend/metabox-options/metabox.php:309
+msgid "LayerSlider"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:157
+#: backend/metabox-options/metabox.php:331
+msgid "MasterSlider"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:193
+#: backend/theme-options/options-init.php:734
+msgid "Sidebar Position"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:196
+msgid "Choose the sidebar position."
+msgstr ""
+
+#: backend/metabox-options/metabox.php:221
+#: backend/theme-options/options-init.php:603
+msgid "Page Title Type"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:231
+msgid "Subtitle visible"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:234
+msgid "Helps whether to show or hide subtitle on Page Title Section."
+msgstr ""
+
+#: backend/metabox-options/metabox.php:258
+#: backend/metabox-options/metabox.php:279
+#: backend/theme-options/options-init.php:624
+msgid "Subtitle"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:261
+msgid ""
+"If you leave as blank then it will be get value from Theme Options -> Layout "
+"-> Page Title -> Subtitle."
+msgstr ""
+
+#: backend/metabox-options/metabox.php:290
+msgid "Specify the Revolution Slider."
+msgstr ""
+
+#: backend/metabox-options/metabox.php:312
+msgid "Specify the LayerSlider."
+msgstr ""
+
+#: backend/metabox-options/metabox.php:334
+msgid "Specify the MasterSlider."
+msgstr ""
+
+#: backend/metabox-options/metabox.php:368
+msgid "Please paste your google map embed code here."
+msgstr ""
+
+#: backend/metabox-options/metabox.php:375
+msgid "Advanced Option visible"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:378
+msgid "To customize your post/page/portfolio."
+msgstr ""
+
+#: backend/metabox-options/metabox.php:400
+#: backend/theme-options/options-init.php:175
+msgid "General"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:417
+msgid "Unique Primary Color?"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:419
+msgid "helps to change Primary Color for this page or."
+msgstr ""
+
+#: backend/metabox-options/metabox.php:432
+msgid "Primary Color"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:435
+msgid ""
+"Note the primary & palette colors are in the bottom of color picker. You can "
+"use one of them."
+msgstr ""
+
+#: backend/metabox-options/metabox.php:451
+msgid "Header Options"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:468
+msgid "Header Visible"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:471
+msgid ""
+"Please use it when you have a situation to disable header. For example: "
+"Coming Soon Page."
+msgstr ""
+
+#: backend/metabox-options/metabox.php:484
+msgid "Customize Header Options"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:487
+msgid ""
+"If you enabled it then This option will override the Theme Options > Layout "
+"> Header section."
+msgstr ""
+
+#: backend/metabox-options/metabox.php:511
+#: backend/theme-options/options-init.php:375
+msgid "Header Layout"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:513
+#: backend/theme-options/options-init.php:376
+msgid "Choose header layout."
+msgstr ""
+
+#: backend/metabox-options/metabox.php:516
+#: backend/metabox-options/metabox.php:1249
+#: backend/theme-options/options-init.php:378
+#: backend/theme-options/options-init.php:882
+msgid "Fullwidth"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:517
+#: backend/metabox-options/metabox.php:1250
+#: backend/theme-options/options-init.php:379
+#: backend/theme-options/options-init.php:883
+msgid "Boxed"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:542
+#: backend/theme-options/options-init.php:386
+msgid "Header Layout Style"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:544
+msgid "Choose header layout style"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:547
+#: backend/theme-options/options-init.php:390
+#: backend/theme-options/options-init.php:391
+msgid "Normal"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:548
+#: backend/theme-options/options-init.php:395
+#: backend/theme-options/options-init.php:396
+msgid "Classic"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:549
+#: backend/theme-options/options-init.php:400
+#: backend/theme-options/options-init.php:401
+msgid "Menu Minimal"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:550
+#: backend/theme-options/options-init.php:405
+#: backend/theme-options/options-init.php:406
+msgid "Logo Top Center"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:551
+#: backend/theme-options/options-init.php:411
+msgid "Left-Side-Menu"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:552
+#: backend/theme-options/options-init.php:416
+msgid "Header-with-Headline"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:576
+#: backend/theme-options/options-init.php:434
+msgid "Header Height"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:578
+msgid ""
+"Write header height. If you leave as blank then it will be get value from "
+"Theme Options -> Layout -> Header -> Header Height."
+msgstr ""
+
+#: backend/metabox-options/metabox.php:604
+#: backend/metabox-options/metabox.php:638
+#: backend/metabox-options/metabox.php:672
+#: backend/metabox-options/metabox.php:706
+#: backend/metabox-options/metabox.php:965
+#: backend/metabox-options/metabox.php:1033
+msgid "px"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:610
+#: backend/theme-options/options-init.php:446
+msgid "Logo-Top-Center Style Height"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:612
+msgid ""
+"Write Logo-Top-Center style height. If you leave as blank then it will be "
+"get value from Theme Options -> Layout -> Header -> Logo-Top-Center Style "
+"Height."
+msgstr ""
+
+#: backend/metabox-options/metabox.php:644
+msgid "Header with Headline's Style Height"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:646
+msgid ""
+"Write header with headline style height. If you leave as blank then it will "
+"be get value from Theme Options -> Layout -> Header -> Header with "
+"Headline's Menu Height."
+msgstr ""
+
+#: backend/metabox-options/metabox.php:678
+#: backend/theme-options/options-init.php:425
+msgid "Headline Text"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:680
+msgid ""
+"Write headline text. If you leave as blank then it will be get value from "
+"Theme Options -> Layout -> Header -> Headline Text."
+msgstr ""
+
+#: backend/metabox-options/metabox.php:712
+#: backend/theme-options/options-init.php:470
+msgid "Header Background Type"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:714
+#: backend/metabox-options/metabox.php:1067
+#: backend/metabox-options/metabox.php:1309
+msgid "Choose header background type"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:717
+#: backend/metabox-options/metabox.php:1070
+#: backend/metabox-options/metabox.php:1312
+#: backend/theme-options/options-init.php:473
+msgid "Color Scheme"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:718
+#: backend/metabox-options/metabox.php:1071
+#: backend/metabox-options/metabox.php:1313
+#: backend/theme-options/options-init.php:474
+#: backend/theme-options/options-init.php:670
+#: backend/theme-options/options-init.php:930
+msgid "Image"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:743
+#: backend/theme-options/options-init.php:481
+msgid "Header Background Color Scheme"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:745
+msgid "Choose header background color scheme"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:748
+#: backend/metabox-options/metabox.php:1096
+#: backend/metabox-options/metabox.php:1363
+#: backend/theme-options/options-init.php:484
+#: backend/theme-options/options-init.php:681
+#: backend/theme-options/options-init.php:941
+msgid "Light"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:749
+#: backend/metabox-options/metabox.php:1097
+#: backend/metabox-options/metabox.php:1364
+#: backend/theme-options/options-init.php:485
+#: backend/theme-options/options-init.php:682
+#: backend/theme-options/options-init.php:942
+msgid "Dark"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:779
+msgid "Header Background"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:824
+#: backend/theme-options/options-init.php:512
+msgid "Sticky Header Style"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:826
+msgid ""
+"Works Header Layout Styles excepting Left-Side-Menu. Choose inherit for "
+"theme options' value."
+msgstr ""
+
+#: backend/metabox-options/metabox.php:830
+#: backend/theme-options/options-init.php:516
+msgid "When Scroll Up"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:831
+#: backend/theme-options/options-init.php:517
+msgid "Frequently"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:832
+#: backend/theme-options/options-init.php:518
+msgid "Frequently with Background Transparent"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:862
+#: backend/theme-options/options-init.php:531
+msgid "Sticky Header Background Transparent"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:864
+#: backend/metabox-options/metabox.php:899
+msgid "Min: 0, Max: 100, step: 1"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:889
+#: backend/metabox-options/metabox.php:924
+msgid "% transparent"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:897
+#: backend/theme-options/options-init.php:544
+msgid "Left-Side-Menu Header Background Transparent"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:932
+#: backend/theme-options/options-init.php:574
+msgid "Frequently Header Height"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:934
+#: backend/theme-options/options-init.php:560
+msgid ""
+"Below option helps page title to vertical center. Sum of Header Height, Logo-"
+"Top-Center Height and Header-with-Headline. For example: If Logo-Top-Center "
+"is selected and Heights are Header Height:110px and Logo-Top-Center "
+"Height:80px. Result: 110px + 80px = 190px"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:971
+msgid "Page Title Options"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:988
+msgid "Customize Page Title Options"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:991
+msgid ""
+"If you enabled it then This option will override the Theme Options > Layout "
+"> Page Title section."
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1015
+#: backend/theme-options/options-init.php:653
+msgid "Page Title Height"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1017
+msgid ""
+"Note: 0 means no page title. If you leave as blank then it will be get value "
+"from Theme Options -> Layout -> Page Title -> Page Title Height."
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1031
+msgid "Recommended Size: 100-500"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1039
+#: backend/theme-options/options-init.php:634
+msgid "Page Title Style"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1044
+#: backend/theme-options/options-init.php:638
+msgid "Center"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1045
+#: backend/theme-options/options-init.php:643
+msgid "Align"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1065
+#: backend/theme-options/options-init.php:666
+msgid "Page Title Background Type"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1091
+#: backend/theme-options/options-init.php:678
+msgid "Page Title Color Scheme"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1122
+#: backend/theme-options/options-init.php:694
+msgid "Page Title Background"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1124
+#: backend/theme-options/options-init.php:695
+msgid "\"Select Color\" options is focused to page title text"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1161
+#: backend/theme-options/options-init.php:716
+msgid "Breadcrumb visible"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1187
+msgid "Footer Options"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1204
+msgid "Customize Footer Options"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1207
+msgid ""
+"If you enabled it then This option will override the Theme Options > Layout "
+"> Footer section."
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1220
+#: backend/theme-options/options-init.php:869
+msgid "Footer Enable/Disable"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1245
+#: backend/theme-options/options-init.php:879
+msgid "Footer Layout"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1275
+#: backend/theme-options/options-init.php:891
+msgid "Footer Widget Columns"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1295
+#: backend/theme-options/options-init.php:900
+#: backend/theme-options/options-init.php:901
+msgid "4 columns"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1296
+#: backend/theme-options/options-init.php:905
+#: backend/theme-options/options-init.php:906
+msgid "3 columns"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1297
+#: backend/metabox-options/portfolio.php:104
+#: backend/theme-options/options-init.php:910
+#: backend/theme-options/options-init.php:911
+msgid "2 columns"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1298
+#: backend/metabox-options/portfolio.php:105
+#: backend/theme-options/options-init.php:915
+#: backend/theme-options/options-init.php:916
+msgid "1 column"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1299
+#: backend/theme-options/options-init.php:896
+msgid "No column"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1307
+#: backend/theme-options/options-init.php:926
+msgid "Footer Background Type"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1338
+#: backend/theme-options/options-init.php:938
+msgid "Footer Color Scheme"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1373
+msgid "Footer Background"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1416
+#: backend/theme-options/options-init.php:975
+msgid "Footer Fixed"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1446
+#: backend/theme-options/options-init.php:984
+msgid "Footer Copyright Text Visible"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1476
+#: backend/theme-options/options-init.php:1962
+msgid "Advertising Management"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1493
+msgid "Customize Advertising Management Options"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1496
+msgid ""
+"If you enabled it then This option will override the Theme Options > "
+"Advertising Management section."
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1509
+#: backend/theme-options/options-init.php:1765
+msgid "Before Header Visible"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1534
+#: backend/theme-options/options-init.php:1773
+msgid "Before Header"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1559
+#: backend/theme-options/options-init.php:1786
+msgid "Before Page Title Visible"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1584
+#: backend/theme-options/options-init.php:1794
+msgid "Before Page Title"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1609
+#: backend/theme-options/options-init.php:1807
+msgid "Before Main Content Visible"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1634
+#: backend/theme-options/options-init.php:1815
+msgid "Before Main Content"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1659
+#: backend/theme-options/options-init.php:1828
+msgid "After Main Content Visible"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1684
+#: backend/theme-options/options-init.php:1836
+msgid "After Main Content"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1709
+#: backend/theme-options/options-init.php:1849
+msgid "After Footer Bottom Section Visible"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1734
+#: backend/theme-options/options-init.php:1857
+msgid "After Footer Bottom Section"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1759
+#: backend/theme-options/options-init.php:1870
+msgid "After Footer Copyright Section Visible"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1784
+#: backend/theme-options/options-init.php:1878
+msgid "After Footer Copyright Section"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1809
+#: backend/theme-options/options-init.php:1891
+msgid "Before Default Sidebar Visible"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1834
+#: backend/theme-options/options-init.php:1899
+msgid "Before Default Sidebar"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1867
+#: backend/theme-options/options-init.php:1916
+msgid "WooCommerce Before Shop Page Sidebar Visible"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1892
+#: backend/theme-options/options-init.php:1924
+msgid "WooCommerce Before Shop Page Sidebar"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1917
+#: backend/theme-options/options-init.php:1937
+msgid "WooCommerce Before Shop Single Sidebar Visible"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1942
+#: backend/theme-options/options-init.php:1945
+msgid "WooCommerce Before Shop Single Sidebar"
+msgstr ""
+
+#: backend/metabox-options/metabox.php:1973
+msgid "General & Advanced Options"
+msgstr ""
+
+#: backend/metabox-options/portfolio.php:100
+msgid "Portfolio Single Layout"
+msgstr ""
+
+#: backend/metabox-options/portfolio.php:114
+msgid "Column Comparing"
+msgstr ""
+
+#: backend/metabox-options/portfolio.php:116
+msgid "Note: The columns must be separeted by | symbol. For example: 7|5 etc"
+msgstr ""
+
+#: backend/metabox-options/portfolio.php:138
+msgid "Portfolio Size (Metro Layout)"
+msgstr ""
+
+#: backend/metabox-options/portfolio.php:141
+msgid ""
+"This option will work only Metro Layout. 1x1 Recommended Size: 500x500 "
+"pixel, 1x2 mean 500:1000 etc"
+msgstr ""
+
+#: backend/metabox-options/portfolio.php:154
+msgid "Portfolio Position (Metro Style)"
+msgstr ""
+
+#: backend/metabox-options/portfolio.php:178
+#: backend/metabox-options/portfolio.php:194
+msgid "Single Portfolio only."
+msgstr ""
+
+#: backend/metabox-options/portfolio.php:206
+msgid "Description Text"
+msgstr ""
+
+#: backend/metabox-options/portfolio.php:218
+msgid "Project URL"
+msgstr ""
+
+#: backend/metabox-options/portfolio.php:230
+msgid "Select Content Page"
+msgstr ""
+
+#: backend/metabox-options/portfolio.php:231
+msgid "Your chosen Page content will extend Portfolio Single content."
+msgstr ""
+
+#: backend/metabox-options/portfolio.php:261
+#: backend/theme-options/options-init.php:1658
+msgid "Portfolio Options"
+msgstr ""
+
+#: backend/metabox-options/post-format.php:11
+msgid "Video settings"
+msgstr ""
+
+#: backend/metabox-options/post-format.php:15
+msgid "M4V File URL"
+msgstr ""
+
+#: backend/metabox-options/post-format.php:18
+msgid "The URL to the .m4v video file"
+msgstr ""
+
+#: backend/metabox-options/post-format.php:28
+msgid "Video Thumbnail Image"
+msgstr ""
+
+#: backend/metabox-options/post-format.php:31
+msgid "The preview image."
+msgstr ""
+
+#: backend/metabox-options/post-format.php:41
+msgid "Embed Code"
+msgstr ""
+
+#: backend/metabox-options/post-format.php:44
+msgid "If you're not using self hosted video then you can add embed code here."
+msgstr ""
+
+#: backend/metabox-options/post-format.php:79
+msgid "Audio settings"
+msgstr ""
+
+#: backend/metabox-options/post-format.php:83
+msgid "MP3 File URL"
+msgstr ""
+
+#: backend/metabox-options/post-format.php:86
+msgid "The URL to the .mp3 audio file."
+msgstr ""
+
+#: backend/metabox-options/post-format.php:96
+msgid "Audio Embed Code"
+msgstr ""
+
+#: backend/metabox-options/post-format.php:99
+msgid "Please write/paste embed code here."
+msgstr ""
+
+#: backend/metabox-options/post-format.php:141
+msgid "Quote settings"
+msgstr ""
+
+#: backend/metabox-options/post-format.php:145
+msgid "The Quote"
+msgstr ""
+
+#: backend/metabox-options/post-format.php:148
+msgid "Write a quote in this field."
+msgstr ""
+
+#: backend/metabox-options/post-format.php:157
+msgid "The Author"
+msgstr ""
+
+#: backend/metabox-options/post-format.php:160
+msgid "Write a author name of quote."
+msgstr ""
+
+#: backend/metabox-options/post-format.php:202
+msgid "Link settings"
+msgstr ""
+
+#: backend/metabox-options/post-format.php:206
+msgid "The URL"
+msgstr ""
+
+#: backend/metabox-options/post-format.php:209
+msgid "Insert the URL you wish to link to."
+msgstr ""
+
+#: backend/partials/footer/footer-bottom.php:24
+#, php-format
+msgid "Footer sidebar %s"
+msgstr ""
+
+#: backend/partials/footer/footer-bottom.php:26
+#, php-format
+msgid ""
+"<div class=\"no-sidebar\">There is no widget. You should add your widgets "
+"into <strong>Footer sidebar %s</strong> sidebar area on <strong>Appearance "
+"=> Widgets</strong> of your dashboard.</div>"
+msgstr ""
+
+#: backend/partials/mobile-layout.php:7
+msgid "<p class=\"menu-minimal-widget\">No Widget, Add the Widgets here.</p>"
+msgstr ""
+
+#: backend/template-tags.php:9
+msgid "Comment navigation"
+msgstr ""
+
+#: backend/template-tags.php:12
+msgid "Older Comments"
+msgstr ""
+
+#: backend/template-tags.php:16
+msgid "Newer Comments"
+msgstr ""
+
+#: backend/template-tags.php:31
+msgid "Featured"
+msgstr ""
+
+#: backend/template-tags.php:105
+#, php-format
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: backend/template-tags.php:184
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:324
+msgid "Install Required Plugins"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:325
+msgid "Install Plugins"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:326
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:327
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:388
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:389
+msgid "Return to the dashboard"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:390 backend/tgm-plugin-activation.php:3014
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:391
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:392
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:393
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:396
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:516
+msgid "Update Required"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:629
+msgid "The tgmpa_admin_menu_use_add_theme_page filter is deprecated."
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:818 backend/tgm-plugin-activation.php:3423
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:925
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:925 backend/tgm-plugin-activation.php:928
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:928
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:2152
+msgid "Required"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:2155
+msgid "Recommended"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:2171
+msgid "WordPress Repository"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:2174
+msgid "External Source"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:2177
+msgid "Pre-Packaged"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:2194
+msgid "Not Installed"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:2198
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:2200
+msgid "Active"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:2206
+msgid "Required Update not Available"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:2209
+msgid "Requires Update"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:2212
+msgid "Update recommended"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:2364
+msgid "Installed version:"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:2372
+msgid "Minimum required version:"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:2384
+msgid "Available version:"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:2407
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:2421
+msgid "Plugin"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:2422
+msgid "Source"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:2423
+msgid "Type"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:2427
+msgid "Version"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:2428
+msgid "Status"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:2555
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:2588
+msgid "Install"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:2594
+msgid "Update"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:2597
+msgid "Activate"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:2628
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:2630
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:2666
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:2668
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:2773
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:2799
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:3013
+msgid "Plugin activation failed."
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:3347
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:3349
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:3350
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:3354
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:3355
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:3355
+#: backend/tgm-plugin-activation.php:3361
+msgid "Show Details"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:3355
+#: backend/tgm-plugin-activation.php:3361
+msgid "Hide Details"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:3356
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:3357
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:3360
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:3361
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:3362
+msgid "All installations have been completed."
+msgstr ""
+
+#: backend/tgm-plugin-activation.php:3363
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: backend/theme-options/options-init.php:86
+msgid "Support"
+msgstr ""
+
+#: backend/theme-options/options-init.php:87
+msgid "Our theme supported via our Themeforest Author Comment section."
+msgstr ""
+
+#: backend/theme-options/options-init.php:91
+msgid "Documentation"
+msgstr ""
+
+#: backend/theme-options/options-init.php:92
+msgid ""
+"Documentation included on your All Files ZIP file and you need to extract it "
+"and then there is located."
+msgstr ""
+
+#: backend/theme-options/options-init.php:182
+msgid "Logo & Favicon"
+msgstr ""
+
+#: backend/theme-options/options-init.php:189
+msgid "Logo"
+msgstr ""
+
+#: backend/theme-options/options-init.php:202
+msgid "Upload Dark Logo"
+msgstr ""
+
+#: backend/theme-options/options-init.php:203
+msgid "Recommended Size: 130x20"
+msgstr ""
+
+#: backend/theme-options/options-init.php:205
+msgid ""
+"If you chosen the Header Color Scheme to Dark then this Logo wil display."
+msgstr ""
+
+#: backend/theme-options/options-init.php:215
+msgid "Upload Light Logo"
+msgstr ""
+
+#: backend/theme-options/options-init.php:216
+msgid ""
+"If your Header Background is Dark then This logo will displayed. Recommended "
+"Size: 130x20"
+msgstr ""
+
+#: backend/theme-options/options-init.php:226
+msgid "Logo Max Width"
+msgstr ""
+
+#: backend/theme-options/options-init.php:227
+msgid ""
+"If you inserted Big Logos then this option will help you shrink it down to "
+"following size."
+msgstr ""
+
+#: backend/theme-options/options-init.php:228
+msgid "The value is in px. Min: 50, max: 300, step: 5, default value: 90"
+msgstr ""
+
+#: backend/theme-options/options-init.php:237
+msgid "Favicon"
+msgstr ""
+
+#: backend/theme-options/options-init.php:245
+msgid "Upload Favicon"
+msgstr ""
+
+#: backend/theme-options/options-init.php:248
+msgid "Supported file Types: ICO, PNG, JPEG"
+msgstr ""
+
+#: backend/theme-options/options-init.php:262
+msgid "Retina Ready?"
+msgstr ""
+
+#: backend/theme-options/options-init.php:275
+msgid "Retina Logo Enable/Disable"
+msgstr ""
+
+#: backend/theme-options/options-init.php:276
+msgid "Display retina logo & favicon for high resolution monitor."
+msgstr ""
+
+#: backend/theme-options/options-init.php:286
+msgid "Retina Dark Logo"
+msgstr ""
+
+#: backend/theme-options/options-init.php:287
+#: backend/theme-options/options-init.php:300
+#: backend/theme-options/options-init.php:313
+msgid "2x bigger than normal"
+msgstr ""
+
+#: backend/theme-options/options-init.php:299
+msgid "Retina Light Logo"
+msgstr ""
+
+#: backend/theme-options/options-init.php:312
+msgid "Retina Favicon"
+msgstr ""
+
+#: backend/theme-options/options-init.php:325
+msgid "Additional"
+msgstr ""
+
+#: backend/theme-options/options-init.php:338
+msgid "Smooth Scrolling"
+msgstr ""
+
+#: backend/theme-options/options-init.php:339
+msgid "Enable to have smooth scrolling for your site."
+msgstr ""
+
+#: backend/theme-options/options-init.php:346
+msgid "Search Button"
+msgstr ""
+
+#: backend/theme-options/options-init.php:347
+msgid "Add or not search button on the main menu."
+msgstr ""
+
+#: backend/theme-options/options-init.php:355
+msgid "Layout"
+msgstr ""
+
+#: backend/theme-options/options-init.php:357
+#: backend/theme-options/options-init.php:1263
+msgid "Basic fields as subsections."
+msgstr ""
+
+#: backend/theme-options/options-init.php:362
+msgid "Header"
+msgstr ""
+
+#: backend/theme-options/options-init.php:387
+msgid "Choose heade Layout Style."
+msgstr ""
+
+#: backend/theme-options/options-init.php:410
+msgid "Left Side Menu"
+msgstr ""
+
+#: backend/theme-options/options-init.php:415
+msgid "Header with Headline"
+msgstr ""
+
+#: backend/theme-options/options-init.php:426
+msgid "Write a headline text."
+msgstr ""
+
+#: backend/theme-options/options-init.php:435
+msgid "Unit: px, Min: 40, max: 200, step: 5, default value: 90"
+msgstr ""
+
+#: backend/theme-options/options-init.php:447
+#: backend/theme-options/options-init.php:459
+msgid "Unit: px, Min: 40, max: 120, step: 5, default value: 80"
+msgstr ""
+
+#: backend/theme-options/options-init.php:458
+msgid "Header with Headline's Menu Height"
+msgstr ""
+
+#: backend/theme-options/options-init.php:471
+msgid ""
+"What would you like to add eigther image or color scheme for header "
+"background?"
+msgstr ""
+
+#: backend/theme-options/options-init.php:482
+msgid ""
+"You can set your own colors on Color -> Header Layout section. If you set it "
+"to Dark then text colors will be white."
+msgstr ""
+
+#: backend/theme-options/options-init.php:494
+msgid "Header Background Image"
+msgstr ""
+
+#: backend/theme-options/options-init.php:513
+msgid "Choose sticky header style."
+msgstr ""
+
+#: backend/theme-options/options-init.php:532
+#: backend/theme-options/options-init.php:545
+msgid "0 Means 100% Transparent."
+msgstr ""
+
+#: backend/theme-options/options-init.php:559
+#: backend/theme-options/options-init.php:1166
+#: backend/theme-options/options-init.php:1446
+msgid "Note"
+msgstr ""
+
+#: backend/theme-options/options-init.php:575
+msgid "Unit: px, Min: 40, max: 200, step: 5, default value: 110."
+msgstr ""
+
+#: backend/theme-options/options-init.php:590
+#: backend/theme-options/options-init.php:614
+msgid "Page Title"
+msgstr ""
+
+#: backend/theme-options/options-init.php:604
+msgid "If you choose None option, Page Title will be disappeared."
+msgstr ""
+
+#: backend/theme-options/options-init.php:615
+msgid "Write your global page title."
+msgstr ""
+
+#: backend/theme-options/options-init.php:625
+msgid "Write your global subtitle."
+msgstr ""
+
+#: backend/theme-options/options-init.php:637
+msgid "center"
+msgstr ""
+
+#: backend/theme-options/options-init.php:642
+msgid "align"
+msgstr ""
+
+#: backend/theme-options/options-init.php:654
+msgid "The value is in px. Min: 100, max: 800, step: 5, default value: 200"
+msgstr ""
+
+#: backend/theme-options/options-init.php:667
+msgid ""
+"What would you like to add eigther image or color scheme for page title "
+"background?"
+msgstr ""
+
+#: backend/theme-options/options-init.php:669
+#: backend/theme-options/options-init.php:929
+msgid "Color Scheme "
+msgstr ""
+
+#: backend/theme-options/options-init.php:679
+msgid ""
+"Note the page title text color will be changed defending on Light & Dark."
+msgstr ""
+
+#: backend/theme-options/options-init.php:717
+msgid ""
+"Show website navigation on Page Title. Note: Our theme work with Breadcrumb "
+"NavXT plugin."
+msgstr ""
+
+#: backend/theme-options/options-init.php:735
+msgid "Please select your sidebar position."
+msgstr ""
+
+#: backend/theme-options/options-init.php:743
+#: backend/theme-options/options-init.php:744
+#: backend/theme-options/options-init.php:2307
+#: backend/theme-options/options-init.php:2308
+#: backend/theme-options/options-init.php:2356
+#: backend/theme-options/options-init.php:2357
+#: backend/theme-options/options-init.php:2405
+#: backend/theme-options/options-init.php:2406
+#: backend/theme-options/options-init.php:2454
+#: backend/theme-options/options-init.php:2455
+#: backend/theme-options/options-init.php:2489
+#: backend/theme-options/options-init.php:2490
+#: backend/theme-options/options-init.php:2524
+#: backend/theme-options/options-init.php:2525
+msgid "Right"
+msgstr ""
+
+#: backend/theme-options/options-init.php:748
+#: backend/theme-options/options-init.php:749
+#: backend/theme-options/options-init.php:2312
+#: backend/theme-options/options-init.php:2313
+#: backend/theme-options/options-init.php:2361
+#: backend/theme-options/options-init.php:2362
+#: backend/theme-options/options-init.php:2410
+#: backend/theme-options/options-init.php:2411
+#: backend/theme-options/options-init.php:2459
+#: backend/theme-options/options-init.php:2460
+#: backend/theme-options/options-init.php:2494
+#: backend/theme-options/options-init.php:2495
+#: backend/theme-options/options-init.php:2529
+#: backend/theme-options/options-init.php:2530
+msgid "Left"
+msgstr ""
+
+#: backend/theme-options/options-init.php:758
+msgid "Sticky Sidebar Enable/Disable"
+msgstr ""
+
+#: backend/theme-options/options-init.php:759
+msgid ""
+"Make your default sidebar permanently visible when scrolling up and down."
+msgstr ""
+
+#: backend/theme-options/options-init.php:769
+msgid "Additional Margin Top"
+msgstr ""
+
+#: backend/theme-options/options-init.php:770
+msgid "Set additional margin top size defending on your situation."
+msgstr ""
+
+#: backend/theme-options/options-init.php:771
+msgid "The value is in px. Min: 0, max: 300, step: 5, default value: 170"
+msgstr ""
+
+#: backend/theme-options/options-init.php:785
+msgid "Additional Margin Bottom"
+msgstr ""
+
+#: backend/theme-options/options-init.php:786
+msgid "Set additional margin bottom size defending on your situation."
+msgstr ""
+
+#: backend/theme-options/options-init.php:787
+msgid "The value is in px. Min: 0, max: 300, step: 5, default value: 0"
+msgstr ""
+
+#: backend/theme-options/options-init.php:805
+msgid "Sidebar padding-top"
+msgstr ""
+
+#: backend/theme-options/options-init.php:806
+msgid ""
+"Determines sidebar padding-top. You can see X's value in Theme Options -> "
+"Visual Composer -> Padding Option"
+msgstr ""
+
+#: backend/theme-options/options-init.php:825
+msgid "Sidebar padding-bottom"
+msgstr ""
+
+#: backend/theme-options/options-init.php:826
+msgid ""
+"Determines sidebar padding-bottom. You can see X's value in Theme Options -> "
+"Visual Composer -> Padding Option"
+msgstr ""
+
+#: backend/theme-options/options-init.php:848
+msgid "Sidebar"
+msgstr ""
+
+#: backend/theme-options/options-init.php:856
+msgid "Footer"
+msgstr ""
+
+#: backend/theme-options/options-init.php:892
+msgid "Please select your footer widget columns."
+msgstr ""
+
+#: backend/theme-options/options-init.php:927
+msgid ""
+"What would you like to add eigther image or color scheme for footer "
+"background?"
+msgstr ""
+
+#: backend/theme-options/options-init.php:954
+msgid "Footer Background Image"
+msgstr ""
+
+#: backend/theme-options/options-init.php:993
+msgid "Copyright Text"
+msgstr ""
+
+#: backend/theme-options/options-init.php:994
+msgid "Please type your copyright information."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1006
+msgid "Scroll Up Button"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1014
+msgid "Scroll Up Button Enable/Disable"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1024
+msgid "Scroll Up Button Style"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1027
+msgid "Flat"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1028
+msgid "Border"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1037
+msgid "Color"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1039
+msgid ""
+"The Following Options will be help you to set color. And also the Visual "
+"Composer Color Palettes will be Changed."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1043
+msgid "General Colors"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1051
+msgid "Primary color"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1052
+msgid "Choose primary color."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1068
+msgid "Body Text Color"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1069
+msgid "Choose body text color."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1077
+msgid "Body Background Color"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1078
+msgid "Choose body background color."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1086
+msgid "Image Overlay Background Color"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1087
+#: backend/theme-options/options-init.php:1096
+msgid "use only Portfolio & Blog element."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1095
+msgid "Image Overlay Background Color Opacity"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1097
+msgid "Min: 0, max: 1, step: 0.01, default value: 0.8"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1111
+msgid "Palette Colors"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1119
+msgid "Palette color 1"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1120
+#: backend/theme-options/options-init.php:1129
+#: backend/theme-options/options-init.php:1138
+#: backend/theme-options/options-init.php:1147
+#: backend/theme-options/options-init.php:1156
+msgid "Choose palette color."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1128
+msgid "Palette color 2"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1137
+msgid "Palette color 3"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1146
+msgid "Palette color 4"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1155
+msgid "Palette color 5"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1167
+msgid ""
+"Above palettes and Primary color are availble to choose on Pagebuilder "
+"Elements color options."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1175
+msgid "Title Colors"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1183
+msgid "Heading Title Color"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1184
+msgid "Choose heading title color."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1192
+msgid "Widget Title Color"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1193
+msgid "Choose widget title color."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1204
+msgid "Header Layout Background Color"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1212
+#: backend/theme-options/options-init.php:1241
+msgid "Light Color Scheme"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1213
+#: backend/theme-options/options-init.php:1242
+msgid "Choose light color scheme."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1221
+#: backend/theme-options/options-init.php:1250
+msgid "Dark Color Scheme"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1222
+#: backend/theme-options/options-init.php:1251
+msgid "Choose dark color scheme."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1233
+msgid "Page Title Background Color"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1261
+msgid "Typography & Font"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1268
+msgid "Fonts"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1274
+msgid "Main Font"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1282
+msgid "Body Font"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1283
+msgid "Choose the body font."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1310
+msgid "Heading Title Font"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1311
+msgid "Choose the heading title font."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1344
+msgid "Menu Font"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1345
+msgid "Choose the menu font."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1377
+msgid "Widget Title Font"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1378
+msgid "Choose the widget title font."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1412
+msgid "Blog Meta Font"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1413
+msgid "Choose the blog meta font."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1447
+msgid ""
+"Above letter-spacing option of Blog Meta Font is availble to write in em "
+"unit."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1453
+msgid "Typography"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1459
+msgid "Heading Tags"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1467
+msgid "H1 Heading Tag"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1468
+msgid "Choose the h1 heading tag."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1491
+msgid "H2 Heading Tag"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1492
+msgid "Choose the h2 heading tag."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1515
+msgid "H3 Heading Tag"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1516
+msgid "Choose the h3 heading tag."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1539
+msgid "H4 Heading Tag"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1540
+msgid "Choose the h4 heading tag."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1563
+msgid "H5 Heading Tag"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1564
+msgid "Choose the h5 heading tag."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1587
+msgid "H6 Heading Tag"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1588
+msgid "Choose the h6 heading tag."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1617
+msgid "Blog &amp; Portfolio"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1623
+msgid "Single Post Options"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1631
+msgid "Author Box"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1632
+msgid "Allows to display author information."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1640
+msgid "Allows to display featured image if enabled."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1647
+msgid "Social Share"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1648
+msgid "Allows to display social sharing buttons."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1666
+msgid "Portfolio slug"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1667
+msgid "Write a portfolio-single post type slug."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1674
+msgid "Button text"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1675
+msgid "Write a portfolio button text."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1682
+msgid "Client text"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1683
+msgid "Write a portfolio client text."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1690
+msgid "Badget text"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1691
+msgid "Write a portfolio badget text."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1698
+msgid "Date text"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1699
+msgid "Write a portfolio date text."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1706
+msgid "Skill text"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1707
+msgid "Write a portfolio skill text."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1714
+msgid "Additional text 1"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1715
+msgid "Write a text you need. Blank means not show."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1722
+msgid "Additional text 2"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1723
+msgid "Write a text you need. Blank means not show"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1730
+msgid "Portfolio Category"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1731
+msgid "Allows to display categories in details."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1738
+msgid "Related Portfolios"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1739
+msgid ""
+"Allows to display related portfolios in the bottom of Single Portfolio page."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1746
+msgid "Related Portfolio Text"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1747
+msgid "Allows to display heading text about related Portfolios."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1774
+#: backend/theme-options/options-init.php:1795
+#: backend/theme-options/options-init.php:1816
+#: backend/theme-options/options-init.php:1837
+#: backend/theme-options/options-init.php:1858
+#: backend/theme-options/options-init.php:1879
+#: backend/theme-options/options-init.php:1900
+#: backend/theme-options/options-init.php:1925
+#: backend/theme-options/options-init.php:1946
+msgid ""
+"Insert image ad in visual mode or paste your adsense code here in text mode."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1974
+msgid "WooCommerce Cart"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1975
+msgid "Add or not cart button on the main menu."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1982
+msgid "Products per Page"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1983
+msgid "Enable to show how many products per page."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1990
+msgid "Shop Page Sortable"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1991
+msgid "Enable to have sorting on Shop page."
+msgstr ""
+
+#: backend/theme-options/options-init.php:1998
+msgid "Shop Page with Sidebar"
+msgstr ""
+
+#: backend/theme-options/options-init.php:1999
+msgid "Enable to have sidebar on Shop page."
+msgstr ""
+
+#: backend/theme-options/options-init.php:2006
+msgid "Shop Single with Sidebar"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2007
+msgid "Enable to have sidebar on Single page."
+msgstr ""
+
+#: backend/theme-options/options-init.php:2014
+msgid "WooCommerce"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2026
+msgid "Padding Option"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2027
+msgid "Get x padding either Row or Element."
+msgstr ""
+
+#: backend/theme-options/options-init.php:2028
+#: backend/theme-options/options-init.php:2040
+msgid "The value is in px. Min: 0, max: 50, step: 1, default value: 15"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2038
+msgid "Responsive Padding Option"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2039
+msgid "Use Table & Mobile Device Only."
+msgstr ""
+
+#: backend/theme-options/options-init.php:2050
+msgid "Row Default padding-top"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2051
+msgid "Determines default row padding-top for all elements."
+msgstr ""
+
+#: backend/theme-options/options-init.php:2066
+msgid "Row Default padding-bottom"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2067
+msgid "Determines default row padding-bottom."
+msgstr ""
+
+#: backend/theme-options/options-init.php:2081
+msgid "Element Default padding-top"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2082
+msgid "Determines default element padding-top."
+msgstr ""
+
+#: backend/theme-options/options-init.php:2096
+msgid "Element Default padding-bottom"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2097
+msgid "Determines default element padding-bottom."
+msgstr ""
+
+#: backend/theme-options/options-init.php:2111
+msgid "Visual Composer"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2119
+msgid "Google & Twitter API"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2125
+msgid "Google map API"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2128
+msgid "The following options will be help you to access Google Map by API."
+msgstr ""
+
+#: backend/theme-options/options-init.php:2134
+msgid "Google API"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2140
+msgid "Twitter API"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2143
+msgid ""
+"The following options will be help you to access Twitter application by API. "
+"Register your APP on https://dev.twitter.com/"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2149
+msgid "Consumer Key"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2150
+msgid ""
+"You need to create your Twitter APP and <a href=\"https://dev.twitter.com/"
+"apps\" target=\"_blank\">"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2157
+msgid "Consumer Secret"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2158
+msgid "Please type your consumer secret."
+msgstr ""
+
+#: backend/theme-options/options-init.php:2165
+msgid "Access Token"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2166
+msgid "Please type your access token."
+msgstr ""
+
+#: backend/theme-options/options-init.php:2173
+msgid "Access Token Secret"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2174
+msgid "Please type your access token secret."
+msgstr ""
+
+#: backend/theme-options/options-init.php:2187
+msgid "Custom Translations"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2194
+msgid "Use Custom Translation?"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2195
+msgid ""
+"If you want to change custom translations, you need to enable this option."
+msgstr ""
+
+#: backend/theme-options/options-init.php:2204
+msgid "Category Text"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2205
+#: backend/theme-options/options-init.php:2213
+#: backend/theme-options/options-init.php:2221
+#: backend/theme-options/options-init.php:2229
+#: backend/theme-options/options-init.php:2237
+#: backend/theme-options/options-init.php:2245
+#: backend/theme-options/options-init.php:2253
+#: backend/theme-options/options-init.php:2261
+#: backend/theme-options/options-init.php:2269
+#: backend/theme-options/options-init.php:2277
+msgid "add custom text on Page Title."
+msgstr ""
+
+#: backend/theme-options/options-init.php:2212
+msgid "Portfolio Category Text"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2220
+msgid "Tag Text"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2228
+msgid "Page 404 Text"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2236
+msgid "Author Text"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2244
+msgid "Archives Text"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2252
+msgid "Daily Archives Text"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2260
+msgid "Monthly Archives Text"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2268
+msgid "Yearly Archives Text"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2276
+msgid "Search Text"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2285
+msgid "Archive Pages"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2290
+msgid "Blog Archive"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2298
+#: backend/theme-options/options-init.php:2347
+#: backend/theme-options/options-init.php:2396
+#: backend/theme-options/options-init.php:2445
+#: backend/theme-options/options-init.php:2480
+#: backend/theme-options/options-init.php:2515
+msgid "Sidebar layout"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2299
+#: backend/theme-options/options-init.php:2348
+#: backend/theme-options/options-init.php:2397
+#: backend/theme-options/options-init.php:2446
+#: backend/theme-options/options-init.php:2481
+#: backend/theme-options/options-init.php:2516
+msgid "Please select your category sidebar position."
+msgstr ""
+
+#: backend/theme-options/options-init.php:2322
+#: backend/theme-options/options-init.php:2371
+#: backend/theme-options/options-init.php:2420
+#: backend/theme-options/options-init.php:2539
+msgid "Post Layout"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2323
+#: backend/theme-options/options-init.php:2372
+#: backend/theme-options/options-init.php:2421
+#: backend/theme-options/options-init.php:2540
+msgid "Choose post layout style."
+msgstr ""
+
+#: backend/theme-options/options-init.php:2325
+#: backend/theme-options/options-init.php:2374
+#: backend/theme-options/options-init.php:2423
+#: backend/theme-options/options-init.php:2542
+msgid "Standard"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2326
+#: backend/theme-options/options-init.php:2375
+#: backend/theme-options/options-init.php:2424
+#: backend/theme-options/options-init.php:2543
+msgid "Masonry"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2327
+#: backend/theme-options/options-init.php:2376
+#: backend/theme-options/options-init.php:2425
+#: backend/theme-options/options-init.php:2544
+msgid "Metro"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2328
+#: backend/theme-options/options-init.php:2377
+#: backend/theme-options/options-init.php:2426
+#: backend/theme-options/options-init.php:2545
+msgid "Grid"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2329
+#: backend/theme-options/options-init.php:2378
+#: backend/theme-options/options-init.php:2427
+#: backend/theme-options/options-init.php:2546
+msgid "Grid clean"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2339
+msgid "Portfolio Archive"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2388
+msgid "Tag Archive"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2437
+msgid "Author Page"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2472
+msgid "404 Page"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2507
+msgid "Search Page"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2559
+msgid "Custom CSS"
+msgstr ""
+
+#: backend/theme-options/options-init.php:2567
+msgid "Please paste your custom CSS code here."
+msgstr ""
+
+#: backend/theme-options/ut-demo-importer.php:90
+msgid "Best if used on new WordPress install."
+msgstr ""
+
+#: backend/theme-options/ut-demo-importer.php:91
+msgid "Images are for demo purpose only."
+msgstr ""
+
+#: backend/ut-widget/widget-contact.php:7
+msgid "Add a contact information to your sidebar."
+msgstr ""
+
+#: backend/ut-widget/widget-contact.php:22
+#: backend/ut-widget/widget-portfolio.php:110
+#: backend/ut-widget/widget-post.php:115
+#: backend/ut-widget/widget-social-links.php:61
+msgid "Title:"
+msgstr ""
+
+#: backend/ut-widget/widget-contact.php:26
+msgid "Address:"
+msgstr ""
+
+#: backend/ut-widget/widget-contact.php:30
+msgid "Phone number:"
+msgstr ""
+
+#: backend/ut-widget/widget-contact.php:34
+msgid "Fax number:"
+msgstr ""
+
+#: backend/ut-widget/widget-contact.php:38
+msgid "Email:"
+msgstr ""
+
+#: backend/ut-widget/widget-contact.php:42
+msgid "Email link url:"
+msgstr ""
+
+#: backend/ut-widget/widget-font-icon.php:22
+msgid "Font-Awesome HTML:"
+msgstr ""
+
+#: backend/ut-widget/widget-font-icon.php:26
+msgid "Content:"
+msgstr ""
+
+#: backend/ut-widget/widget-font-icon.php:30
+msgid "Font-Awesome HTML 2:"
+msgstr ""
+
+#: backend/ut-widget/widget-font-icon.php:34
+msgid "Content 2:"
+msgstr ""
+
+#: backend/ut-widget/widget-font-icon.php:38
+msgid "Font-Awesome HTML 3:"
+msgstr ""
+
+#: backend/ut-widget/widget-font-icon.php:42
+msgid "Content 3:"
+msgstr ""
+
+#: backend/ut-widget/widget-portfolio.php:7
+msgid "Displays either recent & most liked portfolios."
+msgstr ""
+
+#: backend/ut-widget/widget-portfolio.php:10
+msgid "UnionTheme Portfolio"
+msgstr ""
+
+#: backend/ut-widget/widget-portfolio.php:114
+msgid "Post order:"
+msgstr ""
+
+#: backend/ut-widget/widget-portfolio.php:116
+msgid "Latest Portfolios"
+msgstr ""
+
+#: backend/ut-widget/widget-portfolio.php:117
+msgid "Most liked Portfolios"
+msgstr ""
+
+#: backend/ut-widget/widget-portfolio.php:120
+msgid "If you were not selected for cats, it will show all categories."
+msgstr ""
+
+#: backend/ut-widget/widget-portfolio.php:130
+msgid "Number of posts to show:"
+msgstr ""
+
+#: backend/ut-widget/widget-post.php:119
+msgid "Post Layout:"
+msgstr ""
+
+#: backend/ut-widget/widget-post.php:121
+msgid "Square"
+msgstr ""
+
+#: backend/ut-widget/widget-post.php:122
+msgid "Circle"
+msgstr ""
+
+#: backend/ut-widget/widget-social-links.php:65
+msgid "Write hex color code. Example: #121714"
+msgstr ""
+
+#: backend/ut-widget/widget-social-links.php:69
+msgid "Choose Icon Size"
+msgstr ""
+
+#: backend/ut-widget/widget-social-links.php:71
+msgid "Small (16px)"
+msgstr ""
+
+#: backend/ut-widget/widget-social-links.php:72
+msgid "Medium (20px)"
+msgstr ""
+
+#: backend/ut-widget/widget-social-links.php:73
+msgid "Large (24px)"
+msgstr ""
+
+#: backend/ut-widget/widget-social-links.php:77
+msgid ""
+"Enter social links. Example:facebook.com/uniontheme. NOTE: Divide value sets "
+"with linebreak \"Enter\""
+msgstr ""
+
+#: backend/vc-render/baganuur_ut_portfolio.php:172
+msgid "Show All"
+msgstr ""
+
+#: backend/vc-render/vc_accordion_tab.php:25
+msgid "Empty section. Edit page to add content here."
+msgstr ""
+
+#: backend/vc-render/vc_tab.php:24
+msgid "Empty tab. Edit page to add content here."
+msgstr ""
+
+#: comments.php:38
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:44
+msgid "Comment"
+msgstr ""
+
+#: comments.php:45
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:54
+msgid "Email*"
+msgstr ""
+
+#: comments.php:58
+msgid "post comment"
+msgstr ""
+
+#: footer.php:36
+msgid "Scroll to top"
+msgstr ""
+
+#: functions.php:91
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:171
+msgid ""
+"<p>You must <strong>activate</strong> all of required 3rd Party Plugins. You "
+"can install those plugins via <strong>Appearence > Install Plugins</strong> "
+"tabs.</p>"
+msgstr ""
+
+#: functions.php:173
+msgid ""
+"<p class=\"baganuur-ut-warning\"><strong>baganuur THEME WARNING!</strong></"
+"p>"
+msgstr ""
+
+#: search.php:12
+msgid ""
+"Sorry, Nothing matched your search. Please try again with another keywords."
+msgstr ""
+
+#: search.php:16
+msgid "We have the following suggestions for best search results:"
+msgstr ""
+
+#: search.php:18
+msgid "Always double check your spelling."
+msgstr ""
+
+#: search.php:19
+msgid "Try similar keywords, for example: notebook instead of laptop."
+msgstr ""
+
+#: search.php:20
+msgid "Try using more than one keyword."
+msgstr ""
+
+#: sidebar.php:65
+msgid "Archives"
+msgstr ""
+
+#: single-portfolio.php:50
+msgid "Categories"
+msgstr ""
+
+#: slider.php:53
+msgid "No Featured Image. Please set Featured Image while editing this Page."
+msgstr ""

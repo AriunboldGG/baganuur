@@ -1,0 +1,62 @@
+#post-body-content .baganuur-ut-menu-options {
+    width: 100%;
+    background-color: #f7f7f7;
+    margin-left: -10px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#post-body-content
+    li.menu-item-depth-0
+    .baganuur-ut-menu-options
+    > .field-baganuur-ut.field-baganuur-ut-hot,
+#post-body-content
+    li.menu-item-depth-0
+    .baganuur-ut-menu-options
+    > .field-baganuur-ut.field-baganuur-ut-new,
+#post-body-content
+    li.menu-item-depth-1
+    .baganuur-ut-menu-options
+    > .field-baganuur-ut.field-baganuur-ut-hot,
+#post-body-content
+    li.menu-item-depth-1
+    .baganuur-ut-menu-options
+    > .field-baganuur-ut.field-baganuur-ut-new,
+#post-body-content .baganuur-ut-menu-options > .field-baganuur-ut {
+    display: none;
+    width: 0;
+    height: 0;
+    overflow: hidden;
+}
+
+#post-body-content
+    li
+    .baganuur-ut-menu-options
+    > .field-baganuur-ut.field-baganuur-ut-hot,
+#post-body-content
+    li
+    .baganuur-ut-menu-options
+    > .field-baganuur-ut.field-baganuur-ut-new,
+#post-body-content
+    li.menu-item-depth-1
+    .baganuur-ut-menu-options
+    > .field-baganuur-ut-hide-title,
+#post-body-content
+    li.menu-item-depth-0
+    .baganuur-ut-menu-options
+    > .field-baganuur-ut-is-mega,
+#post-body-content
+    li.menu-item-depth-0
+    .baganuur-ut-menu-options
+    > .field-baganuur-ut-column {
+    display: inline-block;
+    width: 90%;
+    height: auto;
+}
+
+#post-body-content .baganuur-ut-menu-options > h4 {
+    font-weight: bold;
+}

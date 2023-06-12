@@ -1,0 +1,7 @@
+body.wp-autoresize {
+    writing-mode: vertical-lr;
+    text-orientation: sideways-right;
+    -moz-font-feature-settings: "cv01" on;
+    font-feature-settings: "cv01" on;
+    font-variant-alternates: character-variant(01)
+}

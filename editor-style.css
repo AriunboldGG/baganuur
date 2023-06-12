@@ -1,0 +1,27 @@
+/* These styles are used only in the backend editor */
+
+/* Here you can override any CSS which causes layout or visibility problems in the editor, */
+/* and duplicate any Theme-CSS to make the editor display look more like the real frontend */
+@font-face{
+    font-family: Baiti;
+    src:url('frontend/fonts/mongolian-baiti.woff2') format('woff2'),url('frontend/fonts/mongolian-baiti.woff') format('woff');
+    font-weight:500
+}
+@font-face{
+    font-family: MongolScript;
+    src:url('frontend/fonts/MongolianScript.woff2') format('woff2'),url('frontend/fonts/MongolianScript.woff') format('woff');
+    font-weight:500
+}
+body.wp-autoresize {
+    font-family: Baiti, MongolScript, serif;
+    -webkit-writing-mode:vertical-lr;
+    -ms-writing-mode:tb-lr;
+    writing-mode:vertical-lr;
+    -webkit-text-orientation:sideways-right;
+    text-orientation:sideways-right;
+    -webkit-font-feature-settings:"cv01" on;
+    -moz-font-feature-settings:"cv01" on;
+    font-feature-settings:"cv01" on;
+    -webkit-font-variant-alternates:character-variant(01);
+    font-variant-alternates:character-variant(01)
+}

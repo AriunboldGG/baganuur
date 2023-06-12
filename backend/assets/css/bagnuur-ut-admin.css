@@ -1,0 +1,531 @@
+/* Option Tree Custom Styling by UnionTheme */
+
+#wpbody-content .metabox-holder {
+    min-height: 400px;
+}
+
+#option-tree-settings-api #poststuff h3 {
+    margin-bottom: 0;
+}
+
+.baganuur-ut-content-container,
+.baganuur-ut-content-container table {
+    margin-bottom: 30px;
+}
+
+.baganuur-ut-content-container .baganuur-ut-screenshot {
+    float: left;
+    margin-right: 3%;
+}
+
+.baganuur-ut-content-container table td {
+    font-size: 14px;
+}
+
+.baganuur-ut-content-container table td code {
+    font-size: 14px;
+}
+
+.baganuur-ut-content-container table tr:nth-child(2n) td,
+.baganuur-ut-content-container table tr:nth-child(2n) th {
+    background: #f9f9f9;
+}
+
+.baganuur-ut-content-container table td mark.yes {
+    color: #00d0dc;
+    background: none;
+}
+
+/* SELECT TO DIV transform CSS */
+
+div.cs-select {
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    text-align: left;
+    background: #fff;
+    z-index: 100;
+    width: 100%;
+    max-width: 500px;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+div.cs-select:focus {
+    outline: none;
+    /* For better accessibility add a style for this in your skin */
+}
+
+.cs-select select {
+    display: none;
+}
+
+.cs-select > span {
+    display: block;
+    position: relative;
+    cursor: pointer;
+    border: 1px solid #ccc !important;
+    line-height: 17px;
+    font-size: 12px;
+    margin-bottom: 5px !important;
+    padding: 7px 6px;
+    width: 100% !important;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    -webkit-box-shadow: inset 1px 1px 1px rgba(0, 0, 0, 0.05);
+    -moz-box-shadow: inset 1px 1px 1px rgba(0, 0, 0, 0.05);
+    box-shadow: inset 1px 1px 1px rgba(0, 0, 0, 0.05);
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* Placeholder and selected option */
+
+.cs-select > span {
+    padding-right: 3em;
+}
+
+.cs-select > span::after,
+.cs-select .cs-selected span::after {
+    speak: none;
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.cs-select > span::after {
+    content: '\25BE';
+    right: 1em;
+}
+
+.cs-select .cs-selected span::after {
+    font-family: Dashicons;
+    content: '\f147';
+    margin-left: -6.5px;
+}
+
+.cs-select.cs-active > span::after {
+    -webkit-transform: translateY(-50%) rotate(180deg);
+    transform: translateY(-50%) rotate(180deg);
+}
+
+div.cs-active {
+    z-index: 200;
+}
+
+/* Options */
+
+.cs-select .cs-options {
+    position: absolute;
+    overflow: hidden;
+    width: 100%;
+    background: #fff;
+    visibility: hidden;
+}
+
+.cs-select.cs-active .cs-options {
+    visibility: visible;
+}
+
+.cs-select ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.cs-select ul li small {
+    margin-left: 15px;
+}
+
+.cs-select ul li.cs-focus span {
+    background-color: #ddd;
+}
+
+/* Optgroup and optgroup label */
+
+.cs-select li.cs-optgroup ul {
+    padding-left: 1em;
+}
+
+.cs-select li.cs-optgroup > span {
+    cursor: default;
+}
+
+.cs-skin-elastic > span {
+    background-color: #fff;
+    z-index: 100;
+}
+
+.cs-skin-elastic > span::after {
+    font-family: dashicons;
+    content: '\f347';
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+
+.cs-skin-elastic .cs-options {
+    overflow: visible;
+    background: transparent;
+    opacity: 1;
+    visibility: visible;
+    padding-bottom: 1.25em;
+    pointer-events: none;
+}
+
+.cs-skin-elastic.cs-active .cs-options {
+    pointer-events: auto;
+    border: 1px solid #dbdbdb;
+    padding: 7px 5px;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+}
+
+.cs-skin-elastic .cs-options > ul::before {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    -webkit-transform: scale3d(1, 0, 1);
+    transform: scale3d(1, 0, 1);
+    background: #fff;
+    -webkit-transform-origin: 50% 0%;
+    transform-origin: 50% 0%;
+    -webkit-transition: -webkit-transform 0.3s;
+    transition: transform 0.3s;
+}
+
+.cs-skin-elastic.cs-active .cs-options > ul::before {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+    -webkit-transition: none;
+    transition: none;
+    -webkit-animation: expand 0.6s ease-out;
+    animation: expand 0.6s ease-out;
+}
+
+.cs-skin-elastic .cs-options ul li {
+    margin: 0;
+    opacity: 0;
+    -webkit-transform: translate3d(0, -25px, 0);
+    transform: translate3d(0, -25px, 0);
+    -webkit-transition: opacity 0.15s, -webkit-transform 0.15s;
+    transition: opacity 0.15s, transform 0.15s;
+}
+
+.cs-skin-elastic.cs-active .cs-options ul li {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+    opacity: 1;
+    /*    -webkit-transition: none;
+    transition: none;
+    -webkit-animation: bounce 0.6s ease-out;
+    animation: bounce 0.6s ease-out;*/
+    cursor: pointer;
+}
+
+/* Optional delays (problematic in IE 11/Win) */
+
+/*
+.cs-skin-elastic.cs-active .cs-options ul li:first-child {
+        -webkit-animation-delay: 0.1s;
+        animation-delay: 0.1s;
+}
+
+.cs-skin-elastic.cs-active .cs-options ul li:nth-child(2) {
+        -webkit-animation-delay: 0.15s;
+        animation-delay: 0.15s;
+}
+
+.cs-skin-elastic.cs-active .cs-options ul li:nth-child(3) {
+        -webkit-animation-delay: 0.2s;
+        animation-delay: 0.2s;
+}
+
+.cs-skin-elastic.cs-active .cs-options ul li:nth-child(4) {
+        -webkit-animation-delay: 0.25s;
+        animation-delay: 0.25s;
+} 
+
+/* with more items, more delays declarations are needed */
+
+.cs-skin-elastic .cs-placeholder span {
+    position: relative;
+    padding: 0.8em 1em 0.8em 4em;
+    width: 50%;
+    float: right;
+}
+
+.cs-skin-elastic .cs-options span {
+    position: relative;
+    padding: 0.8em 1em 0.8em 4em;
+    width: 50%;
+    float: right;
+}
+
+@-webkit-keyframes expand {
+    0% {
+        -webkit-transform: scale3d(1, 0, 1);
+    }
+    25% {
+        -webkit-transform: scale3d(1, 1.2, 1);
+    }
+    50% {
+        -webkit-transform: scale3d(1, 0.85, 1);
+    }
+    75% {
+        -webkit-transform: scale3d(1, 1.05, 1);
+    }
+    100% {
+        -webkit-transform: scale3d(1, 1, 1);
+    }
+}
+
+@keyframes expand {
+    0% {
+        -webkit-transform: scale3d(1, 0, 1);
+        transform: scale3d(1, 0, 1);
+    }
+    25% {
+        -webkit-transform: scale3d(1, 1.2, 1);
+        transform: scale3d(1, 1.2, 1);
+    }
+    50% {
+        -webkit-transform: scale3d(1, 0.85, 1);
+        transform: scale3d(1, 0.85, 1);
+    }
+    75% {
+        -webkit-transform: scale3d(1, 1.05, 1);
+        transform: scale3d(1, 1.05, 1);
+    }
+    100% {
+        -webkit-transform: scale3d(1, 1, 1);
+        transform: scale3d(1, 1, 1);
+    }
+}
+
+@-webkit-keyframes bounce {
+    0% {
+        -webkit-transform: translate3d(0, -25px, 0);
+        opacity: 0;
+    }
+    25% {
+        -webkit-transform: translate3d(0, 10px, 0);
+    }
+    50% {
+        -webkit-transform: translate3d(0, -6px, 0);
+    }
+    75% {
+        -webkit-transform: translate3d(0, 2px, 0);
+    }
+    100% {
+        -webkit-transform: translate3d(0, 0, 0);
+        opacity: 1;
+    }
+}
+
+@keyframes bounce {
+    0% {
+        -webkit-transform: translate3d(0, -25px, 0);
+        transform: translate3d(0, -25px, 0);
+        opacity: 0;
+    }
+    25% {
+        -webkit-transform: translate3d(0, 10px, 0);
+        transform: translate3d(0, 10px, 0);
+    }
+    50% {
+        -webkit-transform: translate3d(0, -6px, 0);
+        transform: translate3d(0, -6px, 0);
+    }
+    75% {
+        -webkit-transform: translate3d(0, 2px, 0);
+        transform: translate3d(0, 2px, 0);
+    }
+    100% {
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+        opacity: 1;
+    }
+}
+
+/* TipTip CSS - Version 1.2 */
+
+#tiptip_holder {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 99999;
+}
+
+#tiptip_holder.tip_top {
+    padding-bottom: 5px;
+}
+
+#tiptip_holder.tip_bottom {
+    padding-top: 5px;
+}
+
+#tiptip_holder.tip_right {
+    padding-left: 5px;
+}
+
+#tiptip_holder.tip_left {
+    padding-right: 5px;
+}
+
+#tiptip_content {
+    font-size: 11px;
+    color: #fff;
+    text-shadow: 0 0 2px #000;
+    padding: 4px 8px;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    background-color: rgb(25, 25, 25);
+    background-color: rgba(25, 25, 25, 0.92);
+    background-image: -webkit-gradient(
+        linear,
+        0% 0%,
+        0% 100%,
+        from(transparent),
+        to(#000)
+    );
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    box-shadow: 0 0 3px #555;
+    -webkit-box-shadow: 0 0 3px #555;
+    -moz-box-shadow: 0 0 3px #555;
+}
+
+#tiptip_arrow,
+#tiptip_arrow_inner {
+    position: absolute;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 6px;
+    height: 0;
+    width: 0;
+}
+
+#tiptip_holder.tip_top #tiptip_arrow {
+    border-top-color: #fff;
+    border-top-color: rgba(255, 255, 255, 0.35);
+}
+
+#tiptip_holder.tip_bottom #tiptip_arrow {
+    border-bottom-color: #fff;
+    border-bottom-color: rgba(255, 255, 255, 0.35);
+}
+
+#tiptip_holder.tip_right #tiptip_arrow {
+    border-right-color: #fff;
+    border-right-color: rgba(255, 255, 255, 0.35);
+}
+
+#tiptip_holder.tip_left #tiptip_arrow {
+    border-left-color: #fff;
+    border-left-color: rgba(255, 255, 255, 0.35);
+}
+
+#tiptip_holder.tip_top #tiptip_arrow_inner {
+    margin-top: -7px;
+    margin-left: -6px;
+    border-top-color: rgb(25, 25, 25);
+    border-top-color: rgba(25, 25, 25, 0.92);
+}
+
+#tiptip_holder.tip_bottom #tiptip_arrow_inner {
+    margin-top: -5px;
+    margin-left: -6px;
+    border-bottom-color: rgb(25, 25, 25);
+    border-bottom-color: rgba(25, 25, 25, 0.92);
+}
+
+#tiptip_holder.tip_right #tiptip_arrow_inner {
+    margin-top: -6px;
+    margin-left: -5px;
+    border-right-color: rgb(25, 25, 25);
+    border-right-color: rgba(25, 25, 25, 0.92);
+}
+
+#tiptip_holder.tip_left #tiptip_arrow_inner {
+    margin-top: -6px;
+    margin-left: -7px;
+    border-left-color: rgb(25, 25, 25);
+    border-left-color: rgba(25, 25, 25, 0.92);
+}
+
+/* Webkit Hacks  */
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+    #tiptip_content {
+        padding: 4px 8px 5px 8px;
+        background-color: rgba(45, 45, 45, 0.88);
+    }
+    #tiptip_holder.tip_bottom #tiptip_arrow_inner {
+        border-bottom-color: rgba(45, 45, 45, 0.88);
+    }
+    #tiptip_holder.tip_top #tiptip_arrow_inner {
+        border-top-color: rgba(20, 20, 20, 0.92);
+    }
+}
+
+/* Theme Options Custom Style */
+
+.redux-container .form-table th {
+    width: 30%;
+}
+
+.redux-container-image_select .redux-image-select {
+    margin-right: 5px !important;
+}
+
+.redux-container-image_select ul.redux-image-select li {
+    vertical-align: top;
+}
+
+.redux-container-image_select .redux-image-select label {
+    width: 80px;
+}
+
+.redux-container-image_select .redux-image-select img,
+.redux-container-image_select .redux-image-select-selected img,
+.redux-container-image_select .redux-image-select .tiles,
+.redux-container-image_select .redux-image-select-selected .tiles {
+    border-width: 2px;
+}
+
+.redux-container-image_select .redux-image-select-selected {
+    background: none;
+}
+
+#gallery_height {
+    width: 100%;
+}
+
+.gallery-thumbs li {
+    float: left;
+    margin-right: 10px;
+}
+
+.rey-container-background .hide.screenshot {
+    display: none;
+}
+
+body.wp-autoresize {
+    -webkit-writing-mode: vertical-lr;
+    -ms-writing-mode: vertical-lr;
+    writing-mode: vertical-lr;
+}
